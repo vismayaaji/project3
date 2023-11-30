@@ -1,0 +1,158 @@
+
+
+.sec1{
+    background-color: rgb(54, 54, 168); 
+    color: aliceblue;
+    padding-left: 50px;
+    text-align: right;
+}
+.number{
+    text-align: right;
+    float: right;
+    padding-top: 10px;
+    padding-left:10px ;
+}
+.sec2{
+    background-color: rgb(40, 40, 219);
+}
+.nav-link{
+    color: aliceblue;
+    text-align: right;
+  
+
+}
+.justice{
+    text-align: left;
+    padding-right: 10px;
+    margin-bottom: 0px;
+}
+.sec3{
+    background-color: rgb(54, 54, 168); 
+     height:50px; 
+     padding:100px;
+     
+  
+   
+}
+h2{
+    color: aliceblue;
+    text-align: center;
+    
+}
+.sec4{
+    background-color: aliceblue;
+    text-align: center; 
+    padding: 40px;
+    
+}
+.wwd{
+   
+    padding-top:30px;
+}
+.sec6{
+    background-color: rgb(61, 61, 236);
+    color: aliceblue;
+     text-align: center;
+
+}
+.sec7{
+    background-color: rgb(61, 61, 236);
+    color: aliceblue;
+     text-align: center;
+}
+#en{
+    width: 400px;
+} 
+.inbox6{
+    padding-bottom: 15px;
+}
+.inbox8{
+    background-color: rgb(61, 61, 236);
+    height: 80px;
+}
+.cc{
+    text-align: left;
+}
+.m{
+    text-align: left;
+}
+.inbox9{
+    background-color: rgb(61, 61, 236);
+    height: 80px;
+}
+.sec8{
+    background-color: rgb(61, 61, 236);
+    color: aliceblue;
+     text-align: center;
+}
+.icon1{
+    color: rgb(23, 23, 106);
+    font-size: 20px;
+    border: 1px solid white;
+    padding: 9px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: aliceblue;
+
+}
+.sec9{
+    background-color: aliceblue;
+    height: 200px;
+    color: black;
+    text-align: center;
+    padding: 40px;
+}
+.sec10{
+    background-color: aliceblue;
+    /* height: 500px; */
+}
+.rd{
+    color: aliceblue;
+    text-align: center; 
+    padding: 40px;
+}
+.rd1{
+    background-color: rgb(61, 61, 236);
+}
+.head{
+    text-align: center;
+}
+.blue{
+    color: rgb(89, 89, 248);
+}
+.inbox13{
+    background-color: rgb(242, 232, 242);
+    text-align: center;
+    border: 5px;
+    border-color: rgb(227, 222, 217);
+    border-style: solid;
+}
+.inbox14{
+    background-color: rgb(242, 232, 242);
+    text-align: center;
+    border: 5px;
+    border-color: rgb(227, 222, 217);
+    border-style: solid;
+    padding: 5px;
+}
+.inbox15{
+    background-color: rgb(242, 232, 242);
+    text-align: center;
+    border: 5px;
+    border-color: rgb(227, 222, 217);
+    border-style: solid;
+    padding: 5px;
+}
+.sec13{
+    text-align: center;
+}
+.sec14{
+    border: 5px;
+    border-color: rgb(227, 222, 217);
+    border-style: solid;
+    padding-top: 20px;
+}
+.sec15{
+    color: white;
+    background-color: rgb(61, 61, 236); 
+}
